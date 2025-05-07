@@ -1,0 +1,4 @@
+/home/ubuntu-2004/VNAV_MIT/lab1/CMake_tutorial/build/CMakeFiles/edit_cache.dir
+/home/ubuntu-2004/VNAV_MIT/lab1/CMake_tutorial/build/CMakeFiles/main.dir
+/home/ubuntu-2004/VNAV_MIT/lab1/CMake_tutorial/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu-2004/VNAV_MIT/lab1/CMake_tutorial/build/CMakeFiles/mylib.dir
